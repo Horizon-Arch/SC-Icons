@@ -1,8 +1,8 @@
-# STALCRAFT Icons and Maps
+# Base
 
-This repository contains a collection of icons and maps from the game **STALCRAFT** in `.png` and `.jpg` formats. It provides a more convenient way to access almost all in-game icons, from weapons and armor to items and artifacts, as well as merged location maps.
+This repository contains icons, maps, backgrounds, and other assets from the game **STALCRAFT: X** in `.png` and `.jpg` formats. It provides simplified access to almost all in-game icons, ranging from weapons and armor to items and artifacts, as well as consolidated location maps.
 
-## 🛠️ Methodology
+## 🛠️ How This Was Created
 
 The original game files, which are stored in encrypted `.ol` and `.mic` formats, were decoded using utilities developed by [**onejeuu**](https://github.com/onejeuu).
 
