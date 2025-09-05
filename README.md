@@ -16,4 +16,4 @@ The following table outlines the source game files and their corresponding decod
 
 ## ⚠️ Disclaimer
 
-This repository is intended for **informational and fan-project purposes only**. All rights to the game and its assets are the exclusive property of **EXBO**. The images provided herein are copies of those available in the official game database, as well as images directly extracted from the game files. The official database is available here: [EXBO-Studio/stalcraft-database](https://github.com/EXBO-Studio/stalcraft-database).
+This repository is intended for **informational and fan-project purposes only**. **! All rights to the game and its assets are the exclusive property of EXBO**. The images provided herein are copies of those available in the official game database, as well as images directly extracted from the game files. The official database is available here: [EXBO-Studio/stalcraft-database](https://github.com/EXBO-Studio/stalcraft-database).
