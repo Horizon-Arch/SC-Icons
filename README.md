@@ -1,4 +1,4 @@
-# Base
+# 🧷 Base
 This repository contains icons, maps, backgrounds, and other assets from the game **STALCRAFT: X** in `.png` and `.jpg` formats. It provides simplified access to almost all in-game icons, ranging from weapons and armor to items and artifacts, as well as consolidated location maps.
 
 **All names in this repository are the names of in-game items from the game files.**
